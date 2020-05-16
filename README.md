@@ -32,7 +32,7 @@ Source Data: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 
 ### Model Evaluation & Conclusion
 
-- R-squared Error: 0.84 ; Mean Absolute Error: 17 Lakhs ; Mean Square Error = 786
+- R-square Value: 0.84 ; Mean Absolute Error: 17 Lakhs ; Mean Square Error = 786
 - Upon appling these 3 improvements methods, even though there is a reduction in mean-squared-error, there was a drastric fall in R-squared value.
 - Even though there a very strong correlation (0.91) between the predicted and actual price values, there are few outliers which is causing a skew (0.16) in the residual values
 - Hence, we can conclude that there might have been few features like the 'view point', 'next to river', 'accessibility to IT insdustry', 'Age & Aesthitics of the building' which are missed in the original training data set.
