@@ -20,7 +20,7 @@ Source Data: https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data
 - balcony: Number of balconies in the house
 - price: Price of the house (in Lakhs INR)
 
-### Machine Learning Techniques
+### Techniques used
 - Data Visualization
 - Data Pre Processing
 - Feature Engineering
